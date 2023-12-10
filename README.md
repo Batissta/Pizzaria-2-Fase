@@ -1,1 +1,2 @@
-# Pizzaria-2-Fase
+# Projeto Pizzaria
+## 2ª Fase
